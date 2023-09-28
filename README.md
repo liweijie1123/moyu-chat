@@ -48,7 +48,7 @@ curl 'http http://127.0.0.1:3000/1?name=群名称&content=测试消息'
 ```
 
 ## 😇 演示
-
+000000
 > 群消息发送
 
 ![1.jpg](https://s2.loli.net/2023/08/24/ZzaRMIJN3A2xPSC.jpg)
